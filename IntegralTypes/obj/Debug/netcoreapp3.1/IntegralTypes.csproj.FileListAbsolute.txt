@@ -1,0 +1,13 @@
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.exe
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.deps.json
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.json
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.dev.json
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.dll
+D:\csharp\integraltypes\bin\Debug\netcoreapp3.1\IntegralTypes.pdb
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.csprojAssemblyReference.cache
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfoInputs.cache
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfo.cs
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.dll
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.pdb
+D:\csharp\integraltypes\obj\Debug\netcoreapp3.1\IntegralTypes.genruntimeconfig.cache

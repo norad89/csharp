@@ -1,0 +1,13 @@
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.csprojAssemblyReference.cache
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.AssemblyInfoInputs.cache
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.AssemblyInfo.cs
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.csproj.CoreCompileInputs.cache
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.exe
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.deps.json
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.runtimeconfig.json
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.runtimeconfig.dev.json
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.dll
+D:\csharp\iterazioni\bin\Debug\netcoreapp3.1\Iterazioni.pdb
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.dll
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.pdb
+D:\csharp\iterazioni\obj\Debug\netcoreapp3.1\Iterazioni.genruntimeconfig.cache

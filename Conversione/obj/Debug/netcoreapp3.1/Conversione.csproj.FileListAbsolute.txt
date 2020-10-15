@@ -1,0 +1,13 @@
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.csprojAssemblyReference.cache
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.AssemblyInfoInputs.cache
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.AssemblyInfo.cs
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.csproj.CoreCompileInputs.cache
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.exe
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.deps.json
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.runtimeconfig.json
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.runtimeconfig.dev.json
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.dll
+D:\csharp\conversione\bin\Debug\netcoreapp3.1\Conversione.pdb
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.dll
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.pdb
+D:\csharp\conversione\obj\Debug\netcoreapp3.1\Conversione.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.exe
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.deps.json
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.runtimeconfig.json
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.runtimeconfig.dev.json
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.dll
+D:\csharp\typeinference\bin\Debug\netcoreapp3.1\TypeInference.pdb
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.csprojAssemblyReference.cache
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.AssemblyInfoInputs.cache
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.AssemblyInfo.cs
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.csproj.CoreCompileInputs.cache
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.dll
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.pdb
+D:\csharp\typeinference\obj\Debug\netcoreapp3.1\TypeInference.genruntimeconfig.cache

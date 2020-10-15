@@ -1,0 +1,13 @@
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.exe
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.deps.json
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.runtimeconfig.json
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.runtimeconfig.dev.json
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.dll
+D:\csharp\metodi\bin\Debug\netcoreapp3.1\Metodi.pdb
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.csprojAssemblyReference.cache
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.AssemblyInfoInputs.cache
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.AssemblyInfo.cs
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.csproj.CoreCompileInputs.cache
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.dll
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.pdb
+D:\csharp\metodi\obj\Debug\netcoreapp3.1\Metodi.genruntimeconfig.cache

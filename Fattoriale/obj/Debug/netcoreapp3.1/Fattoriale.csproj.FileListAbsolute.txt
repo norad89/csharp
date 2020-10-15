@@ -1,0 +1,13 @@
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csprojAssemblyReference.cache
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfoInputs.cache
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.AssemblyInfo.cs
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.csproj.CoreCompileInputs.cache
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.exe
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.deps.json
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.json
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.runtimeconfig.dev.json
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.dll
+D:\csharp\fattoriale\bin\Debug\netcoreapp3.1\Fattoriale.pdb
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.dll
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.pdb
+D:\csharp\fattoriale\obj\Debug\netcoreapp3.1\Fattoriale.genruntimeconfig.cache

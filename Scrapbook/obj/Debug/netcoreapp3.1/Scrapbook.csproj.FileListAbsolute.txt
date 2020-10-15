@@ -1,0 +1,13 @@
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.exe
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.deps.json
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.runtimeconfig.json
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.runtimeconfig.dev.json
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.dll
+D:\csharp\scrapbook\bin\Debug\netcoreapp3.1\Scrapbook.pdb
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.csprojAssemblyReference.cache
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.AssemblyInfoInputs.cache
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.AssemblyInfo.cs
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.csproj.CoreCompileInputs.cache
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.dll
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.pdb
+D:\csharp\scrapbook\obj\Debug\netcoreapp3.1\Scrapbook.genruntimeconfig.cache
